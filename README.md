@@ -33,22 +33,25 @@ A fast and efficient OCR system optimized for common fonts.
 * Custom model approach
 * Real-time processing goal
 
-### 🧪 
-
 
 ---
 
 ## 🛠️ Tech Stack
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://tr.wikipedia.org/wiki/SQL)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://en.wikipedia.org/wiki/JavaScript)
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React-Native](https://img.shields.io/badge/reactnative-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://www.reactnative.com/)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](http://csharp.net/)
 
-* **Languages:** Python, Java, JavaScript, MySql, C#
-* **Libraries:** OpenCV, MediaPipe, NumPy, Pandas, 
-* **Tools:** Git, GitHub, 
+</br>
 
----
+[[![html](https://shields.io/badge/HTML-f06529?logo=html5&logoColor=white&labelColor=f06529)](https://tr.wikipedia.org/wiki/HTML)]
+[[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](https://tr.wikipedia.org/wiki/CSS)]
+[![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)](https://unity.com/)
 
-## 📊 GitHub Stats
-
-![Kaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kozdemir03\&show_icons=true)
 
 ---
 
