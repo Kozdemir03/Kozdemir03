@@ -1,16 +1,64 @@
-## Hi there 👋
+<img src="https://github.com/Kozdemir03/Kozdemir03/blob/master/output.gif" alt="Here is a little bit about me!">
 
-<!--
-**Kozdemir03/Kozdemir03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Kaan
 
-Here are some ideas to get you started:
+💻 Junior Developer
+🚀 I'm a tech enthusiast figuring out what path I want to take as a programmer. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 About Me
+
+* 🎯 Interested in Computer Vision and AI systems
+* 🧠 Currently working on OCR and gesture-based control systems
+* ⚡ I like building performance-focused and practical applications
+
+---
+
+## 🚀 Projects
+
+### 🖐️ Hand Gesture Mouse Control
+
+Control your computer mouse using hand movements via webcam.
+
+* Real-time hand tracking
+* Gesture-based clicking
+* Low latency system
+
+### 🔍 Lightweight OCR Engine (In Progress)
+
+A fast and efficient OCR system optimized for common fonts.
+
+* Focused on performance
+* Custom model approach
+* Real-time processing goal
+
+### 🧪 
+
+
+---
+
+## 🛠️ Tech Stack
+
+* **Languages:** Python, Java, JavaScript, MySql, C#
+* **Libraries:** OpenCV, MediaPipe, NumPy, Pandas, 
+* **Tools:** Git, GitHub, 
+
+---
+
+## 📊 GitHub Stats
+
+![Kaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kullanici\&show_icons=true)
+
+---
+
+## 📫 Contact Me
+
+* GitHub: https://github.com/Kozdemir03
+* Email: [kaanozd03@gmail.com](mailto:kaanozd03@gmail.com)
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy turning real-world problems into working software solutions.
