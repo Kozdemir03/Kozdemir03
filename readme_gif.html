@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Typing Anim</title>
+
+<style>
+  body {
+    background: #0d1117;
+    color: #ffffff;
+    font-family: monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+  .container {
+    font-size: 32px;
+  }
+
+  .cursor {
+    display: inline-block;
+    animation: blink 0.7s infinite;
+    margin-left: 5px;
+  }
+
+  @keyframes blink {
+    0%, 50% { opacity: 1; }
+    51%, 100% { opacity: 0; }
+  }
+</style>
+</head>
+
+<body>
+
+<div class="container">
+  <span id="text"></span><span class="cursor">|</span>
+</div>
+
+<script>
+const texts = [
+  "I am a Junior Developer!",
+  "I build projects thats interesting to me...",
+  "kaanozd03@gmail.com",
+  "I love discovering different ways to code!"
+];
+
+let textIndex = 0;
+let charIndex = 0;
+let isDeleting = false;
+
+function type() {
+  const currentText = texts[textIndex];
+
+  if (!isDeleting) {
+    document.getElementById("text").innerText = currentText.substring(0, charIndex + 1);
+    charIndex++;
+
+    if (charIndex === currentText.length) {
+      isDeleting = true;
+      setTimeout(type, 1200);
+      return;
+    }
+  } else {
+    document.getElementById("text").innerText = currentText.substring(0, charIndex - 1);
+    charIndex--;
+
+    if (charIndex === 0) {
+      isDeleting = false;
+      textIndex = (textIndex + 1) % texts.length;
+    }
+  }
+
+  setTimeout(type, isDeleting ? 50 : 100);
+}
+
+type();
+</script>
+
+</body>
+</html>
