@@ -48,7 +48,7 @@ A fast and efficient OCR system optimized for common fonts.
 
 ## 📊 GitHub Stats
 
-![Kaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kullanici\&show_icons=true)
+![Kaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kozdemir03\&show_icons=true)
 
 ---
 
