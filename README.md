@@ -1,4 +1,4 @@
-<img src="https://github.com/Kozdemir03/Kozdemir03/blob/master/output.gif" alt="Here is a little bit about me!">
+<img src="https://github.com/Kozdemir03/Kozdemir03/output.gif" alt="Here is a little bit about me!">
 
 # 👋 Hi, I'm Kaan
 
